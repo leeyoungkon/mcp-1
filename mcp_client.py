@@ -11,7 +11,7 @@ from mcp.client.stdio import stdio_client
 # GPU 서버의 Ollama 주소
 # ========================================
 
-OLLAMA_URL = "http://localhost:11434/api/chat"
+OLLAMA_URL = "http://220.149.119.234:11434/api/chat"
 
 MODEL = "gemma3:12b"
 
